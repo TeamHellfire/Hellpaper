@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright (C) 2013 hellfire
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,6 +16,6 @@
 
 <resources>
     <string name="app_name">Hellpaper</string>
-    <string name="set_wallpaper">Set wallpaper</string>
-    <string name="no_wallpaper">No wallpaper</string>
+    <string name="set_wallpaper">Set Hellpaper</string>
+    <string name="no_wallpaper">No Hellpaper</string>
 </resources>
