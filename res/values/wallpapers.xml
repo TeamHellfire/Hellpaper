@@ -38,24 +38,24 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>wallpaper_1</item>
-        <item>wallpaper_2</item>
-        <item>wallpaper_3</item>
-        <item>wallpaper_4</item>
-        <item>wallpaper_5</item>
-        <item>wallpaper_6</item>
-        <item>wallpaper_7</item>
-        <item>wallpaper_8</item>
-        <item>wallpaper_9</item>
-        <item>wallpaper_10</item>
-        <item>wallpaper_11</item>
-        <item>wallpaper_12</item>
-        <item>wallpaper_13</item>
-        <item>wallpaper_14</item>
-        <item>wallpaper_15</item>
-        <item>wallpaper_16</item>
-        <item>wallpaper_17</item>
-        <item>wallpaper_18</item>
-        <item>wallpaper_19</item>
+        <item>1</item>
+        <item>2</item>
+        <item>Apocalypse City</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>Post human</item>
+        <item>10</item>
+        <item>Hellfire Relit</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>Hells Demon</item>
+        <item>Neon Dragon</item>
+        <item>The Phoenix</item>
+        <item>19</item>
     </string-array>
 </resources>
